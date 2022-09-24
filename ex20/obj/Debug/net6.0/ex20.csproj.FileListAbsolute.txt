@@ -1,0 +1,15 @@
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\bin\Debug\net6.0\ex20.exe
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\bin\Debug\net6.0\ex20.deps.json
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\bin\Debug\net6.0\ex20.runtimeconfig.json
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\bin\Debug\net6.0\ex20.dll
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\bin\Debug\net6.0\ex20.pdb
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.csproj.AssemblyReference.cache
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.AssemblyInfoInputs.cache
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.AssemblyInfo.cs
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.csproj.CoreCompileInputs.cache
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.dll
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\refint\ex20.dll
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.pdb
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ex20.genruntimeconfig.cache
+C:\Users\S9057\Desktop\C#ДЗ3\ex20\obj\Debug\net6.0\ref\ex20.dll
